@@ -1,0 +1,4 @@
+how to learn rust -> https://www.youtube.com/watch?v=2hXNd6x9sZs
+
+https://doc.rust-lang.org/stable/rust-by-example/
+https://rust-book.cs.brown.edu/
