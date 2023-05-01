@@ -35,3 +35,7 @@ haskell will teach you about mapping, filtering, folding, carrying, matching and
 
 # think about rust syntax
 compiler helps you -> it is easier to create complex things
+avoids crashing by creating solid structure in your code
+
+# naming conventions
+https://rust-lang.github.io/api-guidelines/naming.html
