@@ -1,1 +1,9 @@
+/.vscode
+
 /target
+*.exe
+*.pdb
+
+# upload only rustlings exercises
+rustlings/*
+!rustlings/exercises
