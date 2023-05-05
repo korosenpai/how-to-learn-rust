@@ -7,3 +7,6 @@
 # upload only rustlings exercises
 rustlings/*
 !rustlings/exercises
+
+# current position in reading the rust book
+bookmark.txt
